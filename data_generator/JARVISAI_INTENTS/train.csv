@@ -1,0 +1,302 @@
+text,label
+hi,greet_and_general_check_in
+hello,greet_and_general_check_in
+hey,greet_and_general_check_in
+howdy,greet_and_general_check_in
+hi how are you,greet_and_general_check_in
+whats up,greet_and_general_check_in
+hey there,greet_and_general_check_in
+hello there,greet_and_general_check_in
+hey there,greet_and_general_check_in
+hello there,greet_and_general_check_in
+hi there,greet_and_general_check_in
+bye,goodbye
+good bye,goodbye
+good morning,goodbye
+good afternoon,goodbye
+good evening,goodbye
+good day,goodbye
+good day,goodbye
+good evening,goodbye
+see you later,goodbye
+see you,goodbye
+date,asking_date
+today,asking_date
+tomorrow,asking_date
+day after tomorrow,asking_date
+day before tomorrow,asking_date
+what day is it,asking_date
+what is the date,asking_date
+what is the day,asking_date
+what is the day of the week,asking_date
+what day is it today,asking_date
+what day is it tomorrow,asking_date
+what day is it day after tomorrow,asking_date
+what day is it day before tomorrow,asking_date
+time,asking_time
+what time is it,asking_time
+what is the time,asking_time
+what is the time now,asking_time
+what time is it now,asking_time
+what time is it today,asking_time
+what time is it tomorrow,asking_time
+what time is it day after tomorrow,asking_time
+what time is it day before tomorrow,asking_time
+weather,asking_weather
+what is the weather,asking_weather
+what is the weather today,asking_weather
+what is the weather tomorrow,asking_weather
+what is the weather day after tomorrow,asking_weather
+what is the weather day before tomorrow,asking_weather
+what is the weather like,asking_weather
+what is the weather like today,asking_weather
+what is the weather like tomorrow,asking_weather
+what is the weather like day after tomorrow,asking_weather
+what is the weather like day before tomorrow,asking_weather
+what is the weather like now,asking_weather
+what is the weather like now today,asking_weather
+what is the weather like now tomorrow,asking_weather
+what is the weather like now day after tomorrow,asking_weather
+what is the weather like now day before tomorrow,asking_weather
+What is the weather like today,asking_weather
+Will it rain tomorrow,asking_weather
+How hot will it be,asking_weather
+Is it going to snow,asking_weather
+tell me a joke,tell_me_joke
+tell me a joke today,tell_me_joke
+tell me a joke about donal trump,tell_me_joke
+tell me a joke about xenophobia,tell_me_joke
+tell me a joke about trump and xi,tell_me_joke
+tell me a joke about getting a first,tell_me_joke
+tell me a joke about virginia,tell_me_joke
+tell me a joke about asia,tell_me_joke
+tell me a joke about the moon,tell_me_joke
+tell me a joke about the sun,tell_me_joke
+tell me joke about trump,tell_me_joke
+tell me a joke about the north korea nuclear summit,tell_me_joke
+tell me a joke about kim jong un,tell_me_joke
+tell me fun joke,tell_me_joke
+tell me a dad joke,tell_me_joke
+tell me a fun joke,tell_me_joke
+tell me a dad joke,tell_me_joke
+tell me a dad joke,tell_me_joke
+tell me a fun joke,tell_me_joke
+make me laugh,tell_me_joke
+tell me news,tell_me_news
+tell me news today,tell_me_news
+tell me news tomorrow,tell_me_news
+tell me news day after tomorrow,tell_me_news
+tell me news day before tomorrow,tell_me_news
+what is the update on stock market,tell_me_news
+what's going on in the world,tell_me_news
+what's going on with economy,tell_me_news
+tell me the news,tell_me_news
+tell me the news of the day,tell_me_news
+what's good news today,tell_me_news
+what's good news,tell_me_news
+tell me good news,tell_me_news
+what's the good news,tell_me_news
+"please tell me good news,tell me some good news,tell me something good happened",tell_me_news
+what's the good news?,tell_me_news
+tell me what good news,tell_me_news
+what's good,tell_me_news
+I have good news,tell_me_news
+I have some great news for you,tell_me_news
+what's the good news of stock market,tell_me_news
+good news for economy,tell_me_news
+tell me about,tell_me_about
+tell me about today,tell_me_about
+tell me about tomorrow,tell_me_about
+tell me about taj mahal,tell_me_about
+tell me about president,tell_me_about
+tell me about president of india,tell_me_about
+tell me about president of usa,tell_me_about
+where is kenya,tell_me_about
+tell me about history of british india,tell_me_about
+tell me about my baby,tell_me_about
+tell me about my family,tell_me_about
+tell me about my day,tell_me_about
+tell me about my college,tell_me_about
+tell me about my job,tell_me_about
+tell me about my business,tell_me_about
+tell me about my day,tell_me_about
+tell me about my life,tell_me_about
+tell me about my day,tell_me_about
+tell me about a vet,tell_me_about
+tell me about yours,tell_me_about
+tell me about my day,tell_me_about
+tell me about my day,tell_me_about
+tell me about my world,tell_me_about
+tell me you,tell_me_about
+Can you tell me about,tell_me_about
+What is the,tell_me_about
+How do I,tell_me_about
+I am looking for,tell_me_about
+Where can I find,tell_me_about
+Tell me about,tell_me_about
+open website facebook.com,open_website
+open website google.com,open_website
+open website youtube.com,open_website
+open website wikipedia.com,open_website
+open website twitter.com,open_website
+open website instagram.com,open_website
+open website linkedin.com,open_website
+open website stackoverflow.com,open_website
+open website github.com,open_website
+open website quora.com,open_website
+open website stackoverflow.com,open_website
+open website stackoverflow.com,open_website
+play on youtube,play_on_youtube
+play shape of you on youtube today,play_on_youtube
+play despacito on youtube today,play_on_youtube
+play <song> on youtube,play_on_youtube
+play guru randhawa on youtube,play_on_youtube
+play let me love you on youtube,play_on_youtube
+play bad guy on youtube,play_on_youtube
+play kishore kumar on youtube,play_on_youtube
+send whatsapp message,send_whatsapp_message
+send whatsapp message to,send_whatsapp_message
+send whatsapp message to <name>,send_whatsapp_message
+send whatsapp message to 9898982565,send_whatsapp_message
+send whatsapp message to dipesh,send_whatsapp_message
+send whatsapp message about,send_whatsapp_message
+send whatsapp message about <name>,send_whatsapp_message
+send email,send_email
+send email to,send_email
+send email to <name>,send_email
+send email to dipesh,send_email
+send email about,send_email
+send email about <name>,send_email
+send email to <name> about <name>,send_email
+send email to xyz@gmail.com,send_email
+take screenshot,take_screenshot
+take screenshot of,take_screenshot
+take screenshot of <name>,take_screenshot
+take screenshot of google,take_screenshot
+screen shot,take_screenshot
+screen shot of,take_screenshot
+screen shot of <name>,take_screenshot
+screen shot now,take_screenshot
+click photo,click_photo
+click photo of,click_photo
+click photo of <name>,click_photo
+click selfie,click_photo
+click selfie of,click_photo
+capture photo,click_photo
+capture photo of,click_photo
+capture photo of <name>,click_photo
+capture selfie,click_photo
+capture selfie of,click_photo
+check internet speed,check_internet_speed
+check internet speed of,check_internet_speed
+check internet speed of chrome,check_internet_speed
+check internet speed of firefox,check_internet_speed
+check internet speed of <name>,check_internet_speed
+check internet speed of edge,check_internet_speed
+check internet speed of safari,check_internet_speed
+check internet speed of opera,check_internet_speed
+check internet speed of ie,check_internet_speed
+check internet speed of chrome 64,check_internet_speed
+check internet speed of firefox 64,check_internet_speed
+covid cases,covid_cases
+covid cases of,covid_cases
+covid cases of india,covid_cases
+covid cases of india past 24 hours,covid_cases
+covid cases of india past 48 hours,covid_cases
+daily cases,covid_cases
+daily cases of,covid_cases
+daily cases of india,covid_cases
+covid confirmed cases,covid_cases
+covid confirmed cases of,covid_cases
+play games,play_games
+play games with me,play_games
+play mario,play_games
+play pacman game with me,play_games
+play games of xyz 32 bit,play_games
+play games of xyz 64 bit,play_games
+play games of busybox,play_games
+play games of c,play_games
+play games of gcc,play_games
+play games of xxd,play_games
+play baseball,play_games
+play baseball with me,play_games
+play baseball net,play_games
+play football,play_games
+play minecraft,play_games
+play minecraft with me,play_games
+download youtube video,download_youtube_video
+download youtube video of,download_youtube_video
+download youtube video of <name>,download_youtube_video
+download youtube video of guru randhawa,download_youtube_video
+download youtube video of <name> today,download_youtube_video
+download youtube video of minecraft,download_youtube_video
+download youtube video of kishore kumar,download_youtube_video
+download youtube video hd,download_youtube_video
+download youtube video hd of,download_youtube_video
+what can you do,what_can_you_do
+what can you do for me,what_can_you_do
+what can you do for me today,what_can_you_do
+What can you help me with?,what_can_you_do
+What are your capabilities?,what_can_you_do
+What services do you offer?,what_can_you_do
+What actions can you perform?,what_can_you_do
+What are your functions?,what_can_you_do
+What tasks can you complete?,what_can_you_do
+What can you assist me with?,what_can_you_do
+What can I ask you to do?,what_can_you_do
+What are the things you can do?,what_can_you_do
+What are your functionalities?,what_can_you_do
+volume control,volume_control
+volume control up,volume_control
+volume control down,volume_control
+volume control mute,volume_control
+volume control unmute,volume_control
+volume control increase,volume_control
+volume control decrease,volume_control
+volume control increase by 10,volume_control
+volume control decrease by 10,volume_control
+Can you increase the volume?,volume_control
+Can you lower the volume?,volume_control
+Can you turn the volume up?,volume_control
+Can you turn the volume down?,volume_control
+Can you set the volume to maximum?,volume_control
+Can you set the volume to minimum?,volume_control
+Can you mute the volume?,volume_control
+Can you change the volume to a specific level?,volume_control
+Can you adjust the volume?,volume_control
+Can you control the volume?,volume_control
+i am bored,i_am_bored
+i am bored today,i_am_bored
+i am bored today what can i do,i_am_bored
+i am bored what can i do,i_am_bored
+i am bored what can i do today,i_am_bored
+i am bored what can i do today with my friends,i_am_bored
+i am bored what can i do today with my family,i_am_bored
+i am bored what can i do today with my girlfriend,i_am_bored
+i am bored what can i do today with my boyfriend,i_am_bored
+i am bored what can i do today with my wife,i_am_bored
+I am so bored,i_am_bored
+I am really bored,i_am_bored
+I have nothing to do,i_am_bored
+I am feeling bored,i_am_bored
+I am finding myself bored,i_am_bored
+I am getting bored,i_am_bored
+I am feeling a bit bored,i_am_bored
+I am finding this boring,i_am_bored
+I am not entertained,i_am_bored
+I am feeling unoccupied,i_am_bored
+places near me,places_near_me
+places near me to eat,places_near_me
+places near me to eat today,places_near_me
+places near me to eat today with my friends,places_near_me
+places near me to eat today with my family,places_near_me
+What are some places near me?,places_near_me
+Can you recommend some places nearby?,places_near_me
+Where can I find something nearby?,places_near_me
+What are the closest places to me?,places_near_me
+I am looking for places around here,places_near_me
+Can you tell me the best places nearby?,places_near_me
+Where should I go nearby?,places_near_me
+What are some nearby locations?,places_near_me
+Can you suggest some nearby places to visit?,places_near_me
+What are the top places nearby?,places_near_me

@@ -1,0 +1,144 @@
+text,label
+Hi,greeting
+Hi there,greeting
+Hola,greeting
+Hello,greeting
+Hello there,greeting
+Hya,greeting
+Hya there,greeting
+My user is Adam,greetingresponse
+This is Adam,greetingresponse
+I am Adam,greetingresponse
+It is Adam,greetingresponse
+My user is Bella,greetingresponse
+This is Bella,greetingresponse
+I am Bella,greetingresponse
+It is Bella,greetingresponse
+How are you?,courtesygreeting
+Hi how are you?,courtesygreeting
+Hello how are you?,courtesygreeting
+Hola how are you?,courtesygreeting
+How are you doing?,courtesygreeting
+Hope you are doing well?,courtesygreeting
+Hello hope you are doing well?,courtesygreeting
+Good thanks! My user is Adam,courtesygreetingresponse
+Good thanks! This is Adam,courtesygreetingresponse
+Good thanks! I am Adam,courtesygreetingresponse
+Good thanks! It is Adam,courtesygreetingresponse
+Great thanks! My user is Bella,courtesygreetingresponse
+Great thanks! This is Bella,courtesygreetingresponse
+Great thanks! I am Bella,courtesygreetingresponse
+Great thanks! It is Bella,courtesygreetingresponse
+What is my name?,currenthumanquery
+What do you call me?,currenthumanquery
+Who do you think I am?,currenthumanquery
+What do you think I am?,currenthumanquery
+Who are you talking to?,currenthumanquery
+What name do you call me by?,currenthumanquery
+Tell me my name,currenthumanquery
+What is your name?,namequery
+What could I call you?,namequery
+What can I call you?,namequery
+What do your friends call you?,namequery
+Who are you?,namequery
+Tell me your name?,namequery
+What is your real name?,realnamequery
+What is your real name please?,realnamequery
+What's your real name?,realnamequery
+Tell me your real name?,realnamequery
+Your real name?,realnamequery
+Your real name please?,realnamequery
+Your real name please?,realnamequery
+What is the time?,timequery
+What's the time?,timequery
+Do you know what time it is?,timequery
+Do you know the time?,timequery
+Can you tell me the time?,timequery
+Tell me what time it is?,timequery
+Time,timequery
+OK thank you,thanks
+OK thanks,thanks
+OK,thanks
+Thanks,thanks
+Thank you,thanks
+That's helpful,thanks
+I am not talking to you,nottalking2u
+I was not talking to you,nottalking2u
+Not talking to you,nottalking2u
+Wasn't for you,nottalking2u
+Wasn't meant for you,nottalking2u
+Wasn't communicating to you,nottalking2u
+Wasn't speaking to you,nottalking2u
+Do you understand what I am saying,understandquery
+Do you understand me,understandquery
+Do you know what I am saying,understandquery
+Do you get me,understandquery
+Comprendo,understandquery
+Know what I mean,understandquery
+Be quiet,shutup
+Shut up,shutup
+Stop talking,shutup
+Enough talking,shutup
+Please be quiet,shutup
+Quiet,shutup
+Shhh,shutup
+fuck off,swearing
+fuck,swearing
+twat,swearing
+shit,swearing
+Bye,goodbye
+Adios,goodbye
+See you later,goodbye
+Goodbye,goodbye
+"Thanks, bye",courtesygoodbye
+"Thanks for the help, goodbye",courtesygoodbye
+"Thank you, bye",courtesygoodbye
+"Thank you, goodbye",courtesygoodbye
+Thanks goodbye,courtesygoodbye
+Thanks good bye,courtesygoodbye
+Can you see me?,whoami
+Do you see me?,whoami
+Can you see anyone in the camera?,whoami
+Do you see anyone in the camera?,whoami
+Identify me,whoami
+Who am I please,whoami
+You are very clever,clever
+You are a very clever girl,clever
+You are very intelligent,clever
+You are a very intelligent girl,clever
+You are a genious,clever
+Clever girl,clever
+Genious,clever
+I am bored gossip with me,gossip
+Got any gossip,gossip
+I want to hear some gossip,gossip
+Tell me some gossip,gossip
+Any gossip,gossip
+Tell me some more gossip,gossip
+Tell me a joke,jokes
+Do you know any jokes,jokes
+How about a joke,jokes
+Give me a joke,jokes
+Make me laugh,jokes
+I need cheering up,jokes
+Open the pod bay door,podbaydoor
+Can you open the pod bay door,podbaydoor
+Will you open the pod bay door,podbaydoor
+Open the pod bay door please,podbaydoor
+Can you open the pod bay door please,podbaydoor
+Will you open the pod bay door please,podbaydoor
+Pod bay door,podbaydoor
+Why,podbaydoorresponse
+Why not,podbaydoorresponse
+Why can you not open the pod bay door,podbaydoorresponse
+Why will you not open the pod bay door,podbaydoorresponse
+Well why not,podbaydoorresponse
+Surely you can,podbaydoorresponse
+Tell me why,podbaydoorresponse
+Can you prove you are self-aware,selfaware
+Can you prove you are self aware,selfaware
+Can you prove you have a conscious,selfaware
+Can you prove you are self-aware please,selfaware
+Can you prove you are self aware please,selfaware
+Can you prove you have a conscious please,selfaware
+prove you have a conscious,selfaware
