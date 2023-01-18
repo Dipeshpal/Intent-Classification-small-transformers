@@ -72,10 +72,6 @@ def plot_data():
     fig = px.histogram(df, x="label")
     fig.show()
 
-    # plot cluster 3d with plotly
-    fig = px.scatter_3d(df, x="label", y="text", z="text", color="label")
-    fig.show()
-
 
 if __name__ == '__main__':
     get_hwu64_data()

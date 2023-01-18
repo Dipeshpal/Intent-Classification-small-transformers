@@ -3,6 +3,9 @@ from transformers import logging
 from datasets import load_dataset
 from setfit import SetFitModel, SetFitTrainer
 import os
+import torch
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+print('Using device:', device)
 
 shutup.please()
 logging.set_verbosity_error()

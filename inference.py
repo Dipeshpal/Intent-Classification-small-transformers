@@ -4,8 +4,11 @@ transformers.logging.set_verbosity_error()
 
 from transformers import AutoTokenizer, AutoModel, AutoModelForSequenceClassification
 
-tokenizer = AutoTokenizer.from_pretrained('dipesh/Intent-Classification-bart-large-mnli')
-model = AutoModelForSequenceClassification.from_pretrained("dipesh/Intent-Classification-bart-large-mnli")
+# dipesh/Intent-Classification-bart-large-mnli
+# dipesh/autotrain-intent-classification-2953985512
+# dipesh/Intent-Classification-roberta-base-finetuned-intent
+tokenizer = AutoTokenizer.from_pretrained('dipesh/Intent-Classification-roberta-base-finetuned-intent')
+model = AutoModelForSequenceClassification.from_pretrained("dipesh/Intent-Classification-roberta-base-finetuned-intent")
 
 from transformers import pipeline
 
@@ -18,7 +21,7 @@ classes = ['asking date', 'asking time', 'tell me joke', 'tell me news',
            'greet and hello hi kind of things, general check in', 'goodbye',
            'take screenshot', 'click photo', 'download youtube video',
            'covid cases', 'play games', 'places near me', 'i am bored',
-           'volume control', 'what can you dol']
+           'volume control', 'what can you do']
 
 results = nlp(sequence, classes)
 print(results)

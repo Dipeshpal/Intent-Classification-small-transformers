@@ -6,3 +6,5 @@ transformers
 torch
 setfit
 shutup
+tqdm
+plotly
