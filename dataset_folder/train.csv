@@ -1,0 +1,529 @@
+text,intent,labels
+tell me news day after tomorrow,tell me news,19
+send email to <name> about <name>,send email,14
+open website instagram.com,open website,10
+download youtube video of minecraft,download youtube video,6
+daily cases,covid cases,5
+What tasks can you complete?,what can you do,21
+I am looking for places around here,places near me,11
+play despacito on youtube today,play on youtube,13
+places near me,places near me,11
+what is the weather like day after tomorrow,asking weather,2
+what is the weather like now,asking weather,2
+good day,goodbye,7
+check internet speed of firefox,check internet speed,3
+capture selfie,click photo,4
+hi there,"greet and hello hi kind of things, general check in",8
+what day is it today,asking date,0
+good evening,goodbye,7
+what is the weather like day after tomorrow,asking weather,2
+screen shot now,take screenshot,16
+hey there,"greet and hello hi kind of things, general check in",8
+play shape of you on youtube today,play on youtube,13
+see you later,goodbye,7
+tell me a fun joke,tell me joke,18
+what is the weather like now,asking weather,2
+check internet speed of chrome,check internet speed,3
+play baseball,play games,12
+What services do you offer?,what can you do,21
+volume control,volume control,20
+I am so bored,i am bored,9
+what day is it day before tomorrow,asking date,0
+download youtube video of kishore kumar,download youtube video,6
+click selfie of,click photo,4
+download youtube video,download youtube video,6
+take screenshot of google,take screenshot,16
+tell me about my college,tell me about,17
+daily cases,covid cases,5
+send whatsapp message to <name>,send whatsapp message,15
+what day is it day before tomorrow,asking date,0
+play games,play games,12
+daily cases of india,covid cases,5
+what day is it day before tomorrow,asking date,0
+download youtube video of <name> today,download youtube video,6
+click photo of,click photo,4
+screen shot now,take screenshot,16
+what is the date,asking date,0
+Where can I find something nearby?,places near me,11
+capture selfie,click photo,4
+tell me about my life,tell me about,17
+tell me a joke about virginia,tell me joke,18
+check internet speed of chrome 64,check internet speed,3
+Can you recommend some places nearby?,places near me,11
+what can you do for me,what can you do,21
+what is the weather day before tomorrow,asking weather,2
+play despacito on youtube today,play on youtube,13
+tell me what good news,tell me news,19
+what can you do,what can you do,21
+play minecraft,play games,12
+open website google.com,open website,10
+tell me a joke about trump and xi,tell me joke,18
+take screenshot of google,take screenshot,16
+places near me to eat,places near me,11
+What can you help me with?,what can you do,21
+what day is it,asking date,0
+send whatsapp message to 9898982565,send whatsapp message,15
+daily cases of,covid cases,5
+send email to dipesh,send email,14
+places near me to eat,places near me,11
+Can you tell me about,tell me about,17
+I am feeling bored,i am bored,9
+click selfie of,click photo,4
+covid cases of india past 24 hours,covid cases,5
+Can you change the volume to a specific level?,volume control,20
+click photo of <name>,click photo,4
+volume control mute,volume control,20
+play bad guy on youtube,play on youtube,13
+check internet speed of safari,check internet speed,3
+hi,"greet and hello hi kind of things, general check in",8
+play baseball,play games,12
+tell me a dad joke,tell me joke,18
+what is the time now,asking time,1
+daily cases of india,covid cases,5
+open website twitter.com,open website,10
+play pacman game with me,play games,12
+check internet speed of firefox,check internet speed,3
+what time is it day before tomorrow,asking time,1
+what is the weather today,asking weather,2
+I am finding this boring,i am bored,9
+take screenshot of google,take screenshot,16
+tell me about my day,tell me about,17
+Can you set the volume to minimum?,volume control,20
+what time is it day after tomorrow,asking time,1
+play pacman game with me,play games,12
+Can you control the volume?,volume control,20
+take screenshot of google,take screenshot,16
+What are your functionalities?,what can you do,21
+open website instagram.com,open website,10
+download youtube video of kishore kumar,download youtube video,6
+what time is it day before tomorrow,asking time,1
+what is the update on stock market,tell me news,19
+tell me fun joke,tell me joke,18
+check internet speed of ie,check internet speed,3
+tell me about history of british india,tell me about,17
+good news for economy,tell me news,19
+what day is it day after tomorrow,asking date,0
+Can you increase the volume?,volume control,20
+Can you increase the volume?,volume control,20
+what's going on with economy,tell me news,19
+capture photo of <name>,click photo,4
+play shape of you on youtube today,play on youtube,13
+tell me about my baby,tell me about,17
+tell me a joke about donal trump,tell me joke,18
+take screenshot,take screenshot,16
+places near me to eat,places near me,11
+tell me news today,tell me news,19
+covid confirmed cases,covid cases,5
+what is the time,asking time,1
+send whatsapp message to 9898982565,send whatsapp message,15
+what is the time now,asking time,1
+tell me good news,tell me news,19
+I am finding myself bored,i am bored,9
+play kishore kumar on youtube,play on youtube,13
+I am feeling unoccupied,i am bored,9
+play mario,play games,12
+tell me about president of usa,tell me about,17
+what can you do for me today,what can you do,21
+play shape of you on youtube today,play on youtube,13
+i am bored today what can i do,i am bored,9
+howdy,"greet and hello hi kind of things, general check in",8
+what time is it day before tomorrow,asking time,1
+check internet speed of chrome 64,check internet speed,3
+screen shot of <name>,take screenshot,16
+what time is it now,asking time,1
+What is the,tell me about,17
+play games of xxd,play games,12
+Can you recommend some places nearby?,places near me,11
+tell me about,tell me about,17
+send whatsapp message to 9898982565,send whatsapp message,15
+tell me a fun joke,tell me joke,18
+check internet speed,check internet speed,3
+What are some nearby locations?,places near me,11
+I have nothing to do,i am bored,9
+take screenshot of google,take screenshot,16
+what day is it day after tomorrow,asking date,0
+play games of busybox,play games,12
+What is the weather like today,asking weather,2
+send email to dipesh,send email,14
+take screenshot of <name>,take screenshot,16
+check internet speed of <name>,check internet speed,3
+Can you mute the volume?,volume control,20
+what time is it,asking time,1
+what time is it today,asking time,1
+screen shot of,take screenshot,16
+tell me a joke about kim jong un,tell me joke,18
+"please tell me good news,tell me some good news,tell me something good happened",tell me news,19
+send email to dipesh,send email,14
+How hot will it be,asking weather,2
+places near me to eat today with my friends,places near me,11
+hi there,"greet and hello hi kind of things, general check in",8
+click photo of,click photo,4
+play despacito on youtube today,play on youtube,13
+capture selfie of,click photo,4
+What are your functionalities?,what can you do,21
+places near me to eat today with my family,places near me,11
+open website stackoverflow.com,open website,10
+take screenshot of google,take screenshot,16
+open website stackoverflow.com,open website,10
+i am bored what can i do today,i am bored,9
+send email about <name>,send email,14
+open website github.com,open website,10
+play despacito on youtube today,play on youtube,13
+make me laugh,tell me joke,18
+tell me about taj mahal,tell me about,17
+download youtube video of,download youtube video,6
+What is the weather like today,asking weather,2
+tell me a dad joke,tell me joke,18
+download youtube video of guru randhawa,download youtube video,6
+Where can I find something nearby?,places near me,11
+i am bored what can i do today with my wife,i am bored,9
+good day,goodbye,7
+what can you do,what can you do,21
+download youtube video of kishore kumar,download youtube video,6
+play despacito on youtube today,play on youtube,13
+play games,play games,12
+weather,asking weather,2
+I am not entertained,i am bored,9
+tell me a joke about asia,tell me joke,18
+places near me to eat,places near me,11
+check internet speed of,check internet speed,3
+daily cases of india,covid cases,5
+covid cases of india,covid cases,5
+capture selfie,click photo,4
+send email about,send email,14
+click photo,click photo,4
+send whatsapp message to,send whatsapp message,15
+i am bored what can i do today with my family,i am bored,9
+today,asking date,0
+screen shot of,take screenshot,16
+tell me a joke about xenophobia,tell me joke,18
+What can you help me with?,what can you do,21
+send email about <name>,send email,14
+check internet speed of chrome,check internet speed,3
+volume control decrease,volume control,20
+howdy,"greet and hello hi kind of things, general check in",8
+volume control increase by 10,volume control,20
+open website twitter.com,open website,10
+bye,goodbye,7
+play games with me,play games,12
+open website youtube.com,open website,10
+daily cases,covid cases,5
+good afternoon,goodbye,7
+I am really bored,i am bored,9
+check internet speed of firefox,check internet speed,3
+play shape of you on youtube today,play on youtube,13
+howdy,"greet and hello hi kind of things, general check in",8
+what time is it now,asking time,1
+play shape of you on youtube today,play on youtube,13
+download youtube video of,download youtube video,6
+send email to xyz@gmail.com,send email,14
+send whatsapp message to 9898982565,send whatsapp message,15
+play <song> on youtube,play on youtube,13
+send email to xyz@gmail.com,send email,14
+Can you recommend some places nearby?,places near me,11
+where is kenya,tell me about,17
+covid confirmed cases,covid cases,5
+open website facebook.com,open website,10
+What tasks can you complete?,what can you do,21
+capture selfie,click photo,4
+open website twitter.com,open website,10
+open website twitter.com,open website,10
+send email about <name>,send email,14
+what day is it day after tomorrow,asking date,0
+play games of busybox,play games,12
+click photo of <name>,click photo,4
+i am bored today,i am bored,9
+I have some great news for you,tell me news,19
+screen shot,take screenshot,16
+volume control unmute,volume control,20
+tell me a dad joke,tell me joke,18
+hi there,"greet and hello hi kind of things, general check in",8
+open website youtube.com,open website,10
+what day is it tomorrow,asking date,0
+what is the weather day after tomorrow,asking weather,2
+what's going on in the world,tell me news,19
+How do I,tell me about,17
+tell me the news of the day,tell me news,19
+download youtube video of kishore kumar,download youtube video,6
+I am feeling a bit bored,i am bored,9
+open website stackoverflow.com,open website,10
+hi there,"greet and hello hi kind of things, general check in",8
+i am bored what can i do today with my girlfriend,i am bored,9
+covid cases of india past 24 hours,covid cases,5
+send email to <name> about <name>,send email,14
+hello there,"greet and hello hi kind of things, general check in",8
+what time is it,asking time,1
+send whatsapp message to 9898982565,send whatsapp message,15
+What services do you offer?,what can you do,21
+play despacito on youtube today,play on youtube,13
+download youtube video of <name>,download youtube video,6
+what time is it now,asking time,1
+tell me news,tell me news,19
+what is the weather like now day before tomorrow,asking weather,2
+take screenshot of google,take screenshot,16
+good day,goodbye,7
+send email to <name> about <name>,send email,14
+What is the weather like today,asking weather,2
+what is the date,asking date,0
+what is the weather today,asking weather,2
+what is the time,asking time,1
+i am bored what can i do,i am bored,9
+tell me the news,tell me news,19
+tell me a joke,tell me joke,18
+whats up,"greet and hello hi kind of things, general check in",8
+capture selfie of,click photo,4
+click photo of <name>,click photo,4
+play despacito on youtube today,play on youtube,13
+screen shot of,take screenshot,16
+tell me about my family,tell me about,17
+tell me about president of india,tell me about,17
+send email to dipesh,send email,14
+time,asking time,1
+send whatsapp message about <name>,send whatsapp message,15
+whats up,"greet and hello hi kind of things, general check in",8
+What can I ask you to do?,what can you do,21
+I am finding myself bored,i am bored,9
+good afternoon,goodbye,7
+I have good news,tell me news,19
+send whatsapp message to 9898982565,send whatsapp message,15
+screen shot of,take screenshot,16
+play games,play games,12
+send email to xyz@gmail.com,send email,14
+check internet speed,check internet speed,3
+send email to <name>,send email,14
+tell me a fun joke,tell me joke,18
+send whatsapp message to 9898982565,send whatsapp message,15
+what is the weather like now today,asking weather,2
+open website twitter.com,open website,10
+send whatsapp message to 9898982565,send whatsapp message,15
+download youtube video,download youtube video,6
+what's the good news,tell me news,19
+covid confirmed cases of,covid cases,5
+what is the weather like today,asking weather,2
+send whatsapp message to 9898982565,send whatsapp message,15
+daily cases of india,covid cases,5
+good morning,goodbye,7
+what's good news,tell me news,19
+send whatsapp message,send whatsapp message,15
+tell me a joke about asia,tell me joke,18
+What actions can you perform?,what can you do,21
+tell me about my day,tell me about,17
+click selfie,click photo,4
+play shape of you on youtube today,play on youtube,13
+covid cases of india,covid cases,5
+send whatsapp message to 9898982565,send whatsapp message,15
+howdy,"greet and hello hi kind of things, general check in",8
+what day is it day before tomorrow,asking date,0
+see you,goodbye,7
+today,asking date,0
+what is the weather,asking weather,2
+what can you do for me today,what can you do,21
+tell me about my day,tell me about,17
+what is the weather like now tomorrow,asking weather,2
+play baseball,play games,12
+send email to dipesh,send email,14
+I am looking for,tell me about,17
+play despacito on youtube today,play on youtube,13
+check internet speed of ie,check internet speed,3
+good evening,goodbye,7
+download youtube video of kishore kumar,download youtube video,6
+download youtube video of kishore kumar,download youtube video,6
+check internet speed of firefox,check internet speed,3
+time,asking time,1
+What are your capabilities?,what can you do,21
+send whatsapp message to 9898982565,send whatsapp message,15
+send whatsapp message about <name>,send whatsapp message,15
+I am feeling bored,i am bored,9
+good day,goodbye,7
+I am finding myself bored,i am bored,9
+good day,goodbye,7
+what is the time,asking time,1
+hello there,"greet and hello hi kind of things, general check in",8
+check internet speed of chrome,check internet speed,3
+send whatsapp message to 9898982565,send whatsapp message,15
+tell me about my job,tell me about,17
+tomorrow,asking date,0
+send whatsapp message to 9898982565,send whatsapp message,15
+send whatsapp message,send whatsapp message,15
+play baseball,play games,12
+send email to xyz@gmail.com,send email,14
+open website github.com,open website,10
+covid cases of india past 24 hours,covid cases,5
+check internet speed of,check internet speed,3
+open website twitter.com,open website,10
+capture photo,click photo,4
+take screenshot of google,take screenshot,16
+what time is it day after tomorrow,asking time,1
+open website stackoverflow.com,open website,10
+send whatsapp message to 9898982565,send whatsapp message,15
+tell me about my day,tell me about,17
+what's good,tell me news,19
+i am bored,i am bored,9
+What are your functions?,what can you do,21
+play let me love you on youtube,play on youtube,13
+play minecraft with me,play games,12
+what time is it day before tomorrow,asking time,1
+play let me love you on youtube,play on youtube,13
+what time is it day before tomorrow,asking time,1
+covid cases of india past 24 hours,covid cases,5
+send email,send email,14
+what day is it,asking date,0
+download youtube video of,download youtube video,6
+places near me to eat,places near me,11
+tell me joke about trump,tell me joke,18
+tell me a joke about the north korea nuclear summit,tell me joke,18
+volume control increase,volume control,20
+what day is it,asking date,0
+volume control decrease by 10,volume control,20
+what's the good news,tell me news,19
+tell me news tomorrow,tell me news,19
+hey there,"greet and hello hi kind of things, general check in",8
+good news for economy,tell me news,19
+send whatsapp message to dipesh,send whatsapp message,15
+what can you do,what can you do,21
+download youtube video hd of,download youtube video,6
+What are the closest places to me?,places near me,11
+I have nothing to do,i am bored,9
+screen shot of,take screenshot,16
+tell me a joke about the moon,tell me joke,18
+places near me,places near me,11
+check internet speed of firefox 64,check internet speed,3
+play shape of you on youtube today,play on youtube,13
+Where should I go nearby?,places near me,11
+good day,goodbye,7
+tell me about my world,tell me about,17
+screen shot of,take screenshot,16
+What can I ask you to do?,what can you do,21
+click photo of <name>,click photo,4
+screen shot of,take screenshot,16
+Where can I find,tell me about,17
+send email to dipesh,send email,14
+check internet speed of firefox,check internet speed,3
+send whatsapp message to 9898982565,send whatsapp message,15
+volume control down,volume control,20
+Can you adjust the volume?,volume control,20
+capture photo,click photo,4
+whats up,"greet and hello hi kind of things, general check in",8
+good night,goodbye,7
+tell me joke about trump,tell me joke,18
+play pacman game with me,play games,12
+good bye,goodbye,7
+take screenshot of google,take screenshot,16
+check internet speed of firefox,check internet speed,3
+Can you control the volume?,volume control,20
+open website stackoverflow.com,open website,10
+date,asking date,0
+download youtube video of kishore kumar,download youtube video,6
+whats up,"greet and hello hi kind of things, general check in",8
+take screenshot of google,take screenshot,16
+i am bored what can i do today with my boyfriend,i am bored,9
+I am getting bored,i am bored,9
+what is the date,asking date,0
+what is the weather tomorrow,asking weather,2
+send whatsapp message to 9898982565,send whatsapp message,15
+covid cases of india,covid cases,5
+good day,goodbye,7
+hi there,"greet and hello hi kind of things, general check in",8
+download youtube video hd,download youtube video,6
+send whatsapp message to 9898982565,send whatsapp message,15
+screen shot,take screenshot,16
+what is the day of the week,asking date,0
+open website quora.com,open website,10
+Can you change the volume to a specific level?,volume control,20
+play despacito on youtube today,play on youtube,13
+click selfie,click photo,4
+What can I ask you to do?,what can you do,21
+what is the weather like tomorrow,asking weather,2
+Can you suggest some nearby places to visit?,places near me,11
+volume control increase by 10,volume control,20
+open website twitter.com,open website,10
+download youtube video of guru randhawa,download youtube video,6
+date,asking date,0
+open website facebook.com,open website,10
+what day is it,asking date,0
+tell me a joke about asia,tell me joke,18
+hey,"greet and hello hi kind of things, general check in",8
+what can you do,what can you do,21
+tell me a joke about getting a first,tell me joke,18
+what can you do for me,what can you do,21
+send email to dipesh,send email,14
+What are some places near me?,places near me,11
+download youtube video of,download youtube video,6
+send whatsapp message to,send whatsapp message,15
+play baseball net,play games,12
+tell me news day before tomorrow,tell me news,19
+play despacito on youtube today,play on youtube,13
+Is it going to snow,asking weather,2
+capture photo of,click photo,4
+send email to dipesh,send email,14
+time,asking time,1
+send email to,send email,14
+i am bored what can i do today with my girlfriend,i am bored,9
+Will it rain tomorrow,asking weather,2
+bye,goodbye,7
+hi there,"greet and hello hi kind of things, general check in",8
+Can you set the volume to maximum?,volume control,20
+date,asking date,0
+tell me good news,tell me news,19
+hi how are you,"greet and hello hi kind of things, general check in",8
+download youtube video,download youtube video,6
+tell me a joke,tell me joke,18
+hi there,"greet and hello hi kind of things, general check in",8
+places near me to eat today with my family,places near me,11
+check internet speed of <name>,check internet speed,3
+play despacito on youtube today,play on youtube,13
+Tell me about,tell me about,17
+check internet speed of ie,check internet speed,3
+hi there,"greet and hello hi kind of things, general check in",8
+what's the good news of stock market,tell me news,19
+check internet speed of edge,check internet speed,3
+download youtube video of <name>,download youtube video,6
+send whatsapp message to 9898982565,send whatsapp message,15
+play minecraft with me,play games,12
+What can you assist me with?,what can you do,21
+tell me a joke about donal trump,tell me joke,18
+what's good news today,tell me news,19
+good evening,goodbye,7
+i am bored what can i do today with my friends,i am bored,9
+tell me a joke today,tell me joke,18
+download youtube video,download youtube video,6
+send email to dipesh,send email,14
+see you later,goodbye,7
+play games of xyz 32 bit,play games,12
+download youtube video of kishore kumar,download youtube video,6
+check internet speed of opera,check internet speed,3
+play despacito on youtube today,play on youtube,13
+covid cases,covid cases,5
+day before tomorrow,asking date,0
+Can you lower the volume?,volume control,20
+open website wikipedia.com,open website,10
+play shape of you on youtube today,play on youtube,13
+Can you turn the volume up?,volume control,20
+volume control mute,volume control,20
+time,asking time,1
+what is the weather like,asking weather,2
+play despacito on youtube today,play on youtube,13
+play baseball net,play games,12
+send email to dipesh,send email,14
+play games,play games,12
+I am feeling bored,i am bored,9
+howdy,"greet and hello hi kind of things, general check in",8
+open website facebook.com,open website,10
+play guru randhawa on youtube,play on youtube,13
+take screenshot,take screenshot,16
+send email to <name> about <name>,send email,14
+open website linkedin.com,open website,10
+what day is it tomorrow,asking date,0
+tell me news tomorrow,tell me news,19
+tell me about today,tell me about,17
+what time is it,asking time,1
+places near me to eat today,places near me,11
+I am feeling unoccupied,i am bored,9
+click photo of <name>,click photo,4
+Can you turn the volume down?,volume control,20
+I am looking for places around here,places near me,11
+volume control up,volume control,20
+tell me joke about trump,tell me joke,18
+send email to dipesh,send email,14
+What can I ask you to do?,what can you do,21
+take screenshot,take screenshot,16
