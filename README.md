@@ -31,7 +31,10 @@
 - You can check 'data.py' file. If you want you can add examples in it. Do not change the format of the examples.
 
 
-- > NOTE: ABOVE STEPS ARE OPTIONAL. YOU CAN SKIP. I have already created a dataset 'dataset_generator/train.csv' file.
+- > NOTE: ABOVE STEPS ARE OPTIONAL. YOU CAN SKIP. I have already created a dataset 'dataset_generator/train.csv' file. or You can also load dataset from huggingface hub.
+
+  https://huggingface.co/datasets/dipesh/Intent-Classification-Commands-balanced-ds-large
+
 
 - Below command will create huggingface dataset and push it to huggingface hub.
 
@@ -52,25 +55,29 @@
   
 - This will push your dataset to huggingface hub. You can check the dataset in huggingface hub.
 
-### 3. Fine-tune any model on your custom dataset (zero-shot), classification task
+### 3. Fine-tune any model on your custom dataset, classification task
 
-- You can fine-tune any model on your custom dataset (zero-shot), classification task. You can check the dataset in huggingface hub.
 
-    ```commandline
-    python zero-shot-finetuning-train.py
-    ```
+- You can fine-tune any model on your custom dataset, classification task. 
+
+- Check out 'Transformers_Classifications_distilbert_base_uncased.ipynb' file. You can use any model. 
+
+- This script contains all the steps to fine-tune any model on your custom dataset, classification task.
+
+- Which includes:
+
+    - Loading dataset from huggingface hub
+    - Creating model
+    - Creating trainer
+    - Training model
+    - Saving model
+    - Evaluating model
+    - Inference
+    - Pushing dataset to huggingface hub
+    - Pushing model to huggingface hub
+    - Pushing tokenizer to huggingface hub
+    - Pushing config to huggingface hub
   
-  or
-
-- You can also check out jupyter notebook 'zero-shot-finetuning-train.ipynb' for more details.
-  
-- This will fine-tune any model on your custom dataset (zero-shot), classification task. You can check the dataset in huggingface hub.
-
-- This will also save the model and push to huggingface hub.
-
-- You can check the model in huggingface hub.
-
-
 ### 4. Inference
 
 - It is recommended to open the script 'inference.py' and change the model name and dataset name to your model and dataset name.
@@ -78,8 +85,29 @@
 - Run the script 'inference.py' to get the inference.
 
     ```commandline
-    python inference.py
+  from transformers import AutoTokenizer, AutoModelForSequenceClassification
+  from transformers import pipeline
+  
+  tokenizer = AutoTokenizer.from_pretrained("dipesh/distilbert-base-uncased-Intent-Classification-Commands-balanced-ds-large")
+  
+  model = AutoModelForSequenceClassification.from_pretrained("dipesh/distilbert-base-uncased-Intent-Classification-Commands-balanced-ds-large")
+  
+  classifier_return_all_scores = pipeline('text-classification', model=model, tokenizer=tokenizer, return_all_scores=True )
+  classifier = pipeline('text-classification', model=model, tokenizer=tokenizer)
+  
+  sequence = "make me laugh"
+
+  # Classify the sequence
+  results = classifier(sequence)
+  
+  # Print the results
+  print(results)
     ```
+
+  - or
+  ```commandline
+  python inference.py
+  ```
   
 
 ## How to contribute?
