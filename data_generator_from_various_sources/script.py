@@ -2,10 +2,12 @@ import shutup
 import pandas as pd
 import tqdm
 import json
-from JARVISAI_INTENTS import data as JARVISAI_INTENTS
+from .JARVISAI_INTENTS import data as JARVISAI_INTENTS
 import plotly.express as px
+import os
 
 shutup.please()
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
 def get_hwu64_data():
