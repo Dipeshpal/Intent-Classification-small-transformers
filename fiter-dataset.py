@@ -122,8 +122,12 @@ def rename_columns():
     df = df.drop(columns=['intent_old', 'labels'])
 
     # do a label encoding
-    df['label'] = df['intent'].astype('category')
-    df['label'] = df['label'].cat.codes
+    df['labels'] = df['intent'].astype('category')
+    df['labels'] = df['labels'].cat.codes
+
+    # drop the rows with labels = -1
+    df = df[df.labels != -1]
+    print(df.labels.unique())
 
     # save the new dataset
     df.to_csv("dataset_folder/data_BALANCE_DATA-True/dataset-filtered-renamed.csv", index=False)

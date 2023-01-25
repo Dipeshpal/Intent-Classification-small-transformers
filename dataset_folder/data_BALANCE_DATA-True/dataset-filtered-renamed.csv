@@ -1,4 +1,4 @@
-text,intent,label
+text,intent,labels
 please pause the song,volume control,19
 what time is it tomorrow,asking time,1
 what time is it day before tomorrow,asking time,1
@@ -38,8 +38,6 @@ what is the email sent by this contact read,send email,13
 please reduce the speaker volume,volume control,19
 good evening,goodbye,6
 can you play a game with me,play games,11
-start a pot of coffee please,,-1
-please make me a cup of coffee,,-1
 take screenshot of,take screenshot,15
 where is the nearest smoke shop,places near me,10
 screen shot,take screenshot,15
@@ -67,7 +65,6 @@ send whatsapp message about <name>,send whatsapp message,14
 take screenshot of,take screenshot,15
 hey there,"greet and hello hi kind of things, general check in",7
 send email to <name> about <name>,send email,13
-i want a coffee now,,-1
 where is the pharmacy in leavenworth,places near me,10
 How about a joke,tell me joke,17
 pull up my party playlist,play on youtube,12
@@ -214,7 +211,6 @@ What can you assist me with?,what can you do,20
 whats up,"greet and hello hi kind of things, general check in",7
 tell me a joke about trump and xi,tell me joke,17
 hi there,"greet and hello hi kind of things, general check in",7
-start coffee machine,,-1
 i was not so clear about your answers.,tell me about,16
 can you be my best friend,tell me about,16
 sound off,volume control,19
@@ -245,7 +241,6 @@ what are the lyrics to this song playing,play on youtube,12
 volume control down,volume control,19
 What can you assist me with?,what can you do,20
 tell me about my family,tell me about,16
-please help serve me coffee with a no sugar,,-1
 "Thank you, goodbye",goodbye,6
 which song is this,play on youtube,12
 good evening,goodbye,6
@@ -304,13 +299,11 @@ send email about <name>,send email,13
 mute yourself until five pm,volume control,19
 tell me about my life,tell me about,16
 Hola how are you?,"greet and hello hi kind of things, general check in",7
-i would like to have a cup of coffee,,-1
 silent,volume control,19
 what time is it in new york city,asking time,1
 i am bored what can i do today with my wife,i am bored,8
 tell funny things,tell me joke,17
 good afternoon,goodbye,6
-make me a cup of coffee,,-1
 Do you know what time it is?,asking time,1
 kill all the frogs you see,tell me about,16
 Where can I find something nearby?,places near me,10
@@ -378,7 +371,6 @@ can you tell me about expensive sushi restaurants in west philadelphia,places ne
 places near me to eat today with my friends,places near me,10
 what is time now in california,asking time,1
 send email to xyz@gmail.com,send email,13
-yo i need a coffee now,,-1
 explain further please.,tell me about,16
 veganism,tell me about,16
 screen shot now,take screenshot,15
@@ -395,7 +387,6 @@ what are they saying about donald trump on this topic,tell me news,18
 decrease volume to very soft,volume control,19
 when is boy band playing,play on youtube,12
 click selfie,click photo,3
-can you make me a cup of coffee,,-1
 today,asking date,0
 open website stackoverflow.com,open website,9
 open website github.com,open website,9
@@ -404,7 +395,6 @@ tell me what was the temperature in our city at twelve pm,asking weather,2
 tell me about a vet,tell me about,16
 Do you know what time it is?,asking time,1
 what time is it,asking time,1
-start the coffee maker,,-1
 tell me news tomorrow,tell me news,18
 Do you know what time it is?,asking time,1
 tell me about today,tell me about,16
@@ -423,7 +413,6 @@ down,volume control,19
 any important notifications,send email,13
 Hello,"greet and hello hi kind of things, general check in",7
 can you turn down the volume please and tell me what is the title of this song,play on youtube,12
-i'd like a cappuccino please,,-1
 volume control decrease by 10,volume control,19
 volume control unmute,volume control,19
 capture selfie,click photo,3
@@ -432,7 +421,6 @@ what is your best joke,tell me joke,17
 covid cases of india past 48 hours,covid cases,4
 bye,goodbye,6
 screen shot now,take screenshot,15
-can i get a cup of coffee,,-1
 lets play,play games,11
 it's really loud can you please turn the music down,volume control,19
 covid confirmed cases,covid cases,4
@@ -515,7 +503,6 @@ are there new emails for me,send email,13
 I am feeling a bit bored,i am bored,8
 Great thanks! This is Bella,"greet and hello hi kind of things, general check in",7
 tell me about,tell me about,16
-make five coffee tell the coffee machine,,-1
 what's the funniest joke you know,tell me joke,17
 play games of c,play games,11
 what day is christmas,asking time,1
@@ -555,7 +542,6 @@ good bye,goodbye,6
 Hello hope you are doing well?,"greet and hello hi kind of things, general check in",7
 is it snowing in seattle,asking weather,2
 want to play a game of trivia,play games,11
-make me coffee now,,-1
 tomorrow,asking date,0
 is it going to snow tonight,asking weather,2
 click photo,click photo,3
@@ -678,7 +664,6 @@ Give me a joke,tell me joke,17
 whats up,"greet and hello hi kind of things, general check in",7
 send email to dipesh,send email,13
 play despacito on youtube today,play on youtube,12
-i would like coffee now,,-1
 what time is it today,asking time,1
 tell me news day before tomorrow,tell me news,18
 play games of c,play games,11
@@ -806,7 +791,6 @@ tell me about tomorrow,tell me about,16
 Hola how are you?,"greet and hello hi kind of things, general check in",7
 play games of xxd,play games,11
 good evening,goodbye,6
-i want some coffee,,-1
 please send an email to john saying i'm on leave,send email,13
 Do you know what time it is?,asking time,1
 play bad guy on youtube,play on youtube,12
@@ -839,7 +823,6 @@ send whatsapp message,send whatsapp message,14
 What are your functionalities?,what can you do,20
 tell me about my family,tell me about,16
 What is the time?,asking time,1
-i need a coffee,,-1
 i am bored today what can i do,i am bored,8
 Tell me a joke,tell me joke,17
 have any emails come in since four hundred today,send email,13
@@ -887,9 +870,7 @@ please explain space,tell me about,16
 recent advice concerning google seo,tell me about,16
 please do not respond,volume control,19
 send whatsapp message,send whatsapp message,14
-please make me a coffee,,-1
 good bye,goodbye,6
-can you make some coffee,,-1
 It is Bella,"greet and hello hi kind of things, general check in",7
 download youtube video hd of,download youtube video,5
 open website wikipedia.com,open website,9
@@ -924,7 +905,6 @@ could you please lower your volume,volume control,19
 can you feel,tell me about,16
 what is the weather like now tomorrow,asking weather,2
 what time is it day before tomorrow,asking time,1
-set coffee maker to start at three,,-1
 send a request to martin,send email,13
 is country better today or ten years ago,tell me about,16
 what is the day,asking date,0
@@ -961,7 +941,6 @@ what's good news,tell me news,18
 what is the weather like now day after tomorrow,asking weather,2
 play games with me,play games,11
 dubai marriage,tell me about,16
-can you set my coffee machine to make me coffee at four pm time,,-1
 mute the settings,volume control,19
 play pacman game with me,play games,11
 load up ghost recon wildlands,play games,11
@@ -977,7 +956,6 @@ Hola how are you?,"greet and hello hi kind of things, general check in",7
 tell me about history of british india,tell me about,16
 Hello there,"greet and hello hi kind of things, general check in",7
 what rihanna is doing,tell me about,16
-turn on the coffee pot,,-1
 what is the weather tomorrow,asking weather,2
 click photo of,click photo,3
 Be quiet,goodbye,6
@@ -1021,7 +999,6 @@ Please be quiet,goodbye,6
 please rephrase again to me.,tell me about,16
 play this game with me,play games,11
 How hot will it be,asking weather,2
-let me get a cup of coffee please,,-1
 Hola how are you?,"greet and hello hi kind of things, general check in",7
 Hya,"greet and hello hi kind of things, general check in",7
 what's happening today,tell me news,18
@@ -1053,7 +1030,6 @@ covid cases,covid cases,4
 tell me a joke about asia,tell me joke,17
 what new messages do i have,send email,13
 weather forecast for this week,asking weather,2
-go and make me a coffee,,-1
 date,asking date,0
 play games of xxd,play games,11
 Tell me a joke,tell me joke,17
@@ -1086,10 +1062,8 @@ can you pull up information on the singer of this song,play on youtube,12
 can you give me the time in new delhi,asking time,1
 What are some nearby locations?,places near me,10
 This is Adam,"greet and hello hi kind of things, general check in",7
-make the coffee,,-1
 "s2, i was not so clear about what you said now.",tell me about,16
 tell me a joke about getting a first,tell me joke,17
-prepare my coffee,,-1
 what's going on in the world,tell me news,18
 tell me a joke,tell me joke,17
 what is the weather today,asking weather,2
@@ -1114,12 +1088,10 @@ tell me a joke about dogs,tell me joke,17
 open website facebook.com,open website,9
 play on youtube,play on youtube,12
 play shape of you on youtube today,play on youtube,12
-i would like a coffee now,,-1
 play on youtube,play on youtube,12
 what is the weather like now tomorrow,asking weather,2
 hey do you know any jokes,tell me joke,17
 What are the top places nearby?,places near me,10
-order a latte from starbucks,,-1
 tell me about president of india,tell me about,16
 Do you know what time it is?,asking time,1
 do you have a funny joke for me,tell me joke,17
@@ -1143,7 +1115,6 @@ compile information on the data breach,send email,13
 open website stackoverflow.com,open website,9
 send whatsapp message to 9898982565,send whatsapp message,14
 "Thank you, bye",goodbye,6
-can you make me some coffee,,-1
 send whatsapp message about <name>,send whatsapp message,14
 open temple run game,play games,11
 send email to,send email,13
@@ -1180,7 +1151,6 @@ covid cases,covid cases,4
 tell me news,tell me news,18
 tell funny things,tell me joke,17
 This is Adam,"greet and hello hi kind of things, general check in",7
-prepare coffee,,-1
 what day of the week does the twenty second fall on this month,asking time,1
 what time is it day before tomorrow,asking time,1
 play song aces high,play on youtube,12
@@ -1320,7 +1290,6 @@ I am Bella,"greet and hello hi kind of things, general check in",7
 Great thanks! It is Bella,"greet and hello hi kind of things, general check in",7
 what is weather today,asking weather,2
 Thanks good bye,goodbye,6
-time mr coffee for six am,,-1
 Quiet,goodbye,6
 send whatsapp message to,send whatsapp message,14
 what is the weather like day before tomorrow,asking weather,2
@@ -1365,7 +1334,6 @@ download youtube video of minecraft,download youtube video,5
 open website google.com,open website,9
 What is the time?,asking time,1
 "s1, explain more on your response.",tell me about,16
-please make me coffee without sweetener,,-1
 what would you call this kind of music that we're listening to,play on youtube,12
 Hello hope you are doing well?,"greet and hello hi kind of things, general check in",7
 play games of c,play games,11
@@ -1420,7 +1388,6 @@ Great thanks! It is Bella,"greet and hello hi kind of things, general check in",
 What are your functions?,what can you do,20
 Quiet,goodbye,6
 tell me news day after tomorrow,tell me news,18
-coffee,,-1
 tell me a dad joke,tell me joke,17
 what's the good news?,tell me news,18
 find a joke in your vault and tell me,tell me joke,17
@@ -1484,7 +1451,6 @@ current time please,asking time,1
 Please be quiet,goodbye,6
 be mute,volume control,19
 send whatsapp message about <name>,send whatsapp message,14
-i need to wake up make me the strongest coffee you can make,,-1
 play mario,play games,11
 tell me about history of british india,tell me about,16
 hey,"greet and hello hi kind of things, general check in",7
@@ -1530,7 +1496,6 @@ volume control unmute,volume control,19
 What are your functions?,what can you do,20
 Do you know what time it is?,asking time,1
 play guru randhawa on youtube,play on youtube,12
-do a coffee for me please,,-1
 take screenshot,take screenshot,15
 good bye,goodbye,6
 download youtube video of,download youtube video,5
@@ -1566,7 +1531,6 @@ what's good news today,tell me news,18
 play my favorite music,play on youtube,12
 can you tell me a joke,tell me joke,17
 volume control decrease,volume control,19
-make me happy juice,,-1
 i want to listen jazz,play on youtube,12
 hey there,"greet and hello hi kind of things, general check in",7
 screen shot now,take screenshot,15
@@ -1584,13 +1548,11 @@ tell me the name of the song,play on youtube,12
 why does tom izzo look like a whiny bitch when his team plays,tell me about,16
 i am bored what can i do,i am bored,8
 covid confirmed cases of,covid cases,4
-need a hot coffee,,-1
 what day is it day after tomorrow,asking date,0
 celeb news,tell me news,18
 Hope you are doing well?,"greet and hello hi kind of things, general check in",7
 good evening,goodbye,6
 tell me about yours,tell me about,16
-make coffee at six am,,-1
 hey there,"greet and hello hi kind of things, general check in",7
 i am bored what can i do today with my wife,i am bored,8
 tell me a joke today,tell me joke,17
@@ -1633,7 +1595,6 @@ take screenshot,take screenshot,15
 didn't understand your answers.,tell me about,16
 screen shot of <name>,take screenshot,15
 tell me about tomorrow,tell me about,16
-prepare a cup of coffee,,-1
 Please be quiet,goodbye,6
 covid cases,covid cases,4
 download youtube video of minecraft,download youtube video,5
@@ -1736,10 +1697,8 @@ what is the time now,asking time,1
 What are your functions?,what can you do,20
 please find me the pe most recent news on,tell me news,18
 have i gotten any emails lately,send email,13
-start coffee,,-1
 "Thank you, goodbye",goodbye,6
 capture photo of,click photo,3
-"i'll take my coffee, black",,-1
 pull up the headlines please,tell me news,18
 hey there,"greet and hello hi kind of things, general check in",7
 can you make it a little quieter,volume control,19
@@ -1764,7 +1723,6 @@ Hope you are doing well?,"greet and hello hi kind of things, general check in",7
 mute the speakers,volume control,19
 "Thank you, goodbye",goodbye,6
 Great thanks! My user is Bella,"greet and hello hi kind of things, general check in",7
-can you boil the kettle,,-1
 Tell me a joke,tell me joke,17
 click photo,click photo,3
 good afternoon,goodbye,6
@@ -1861,13 +1819,11 @@ volume control decrease,volume control,19
 open tic tac toe,play games,11
 play games of xxd,play games,11
 What services do you offer?,what can you do,20
-i'd like a coffee please,,-1
 what time is it in central time zone,asking time,1
 Make me laugh,tell me joke,17
 lower the volume of the speakers,volume control,19
 Great thanks! This is Bella,"greet and hello hi kind of things, general check in",7
 best restaurant in local area,places near me,10
-please make coffee according to my earlier preference,,-1
 what is the weather today,asking weather,2
 daily cases of india,covid cases,4
 good bye,goodbye,6
@@ -1878,7 +1834,6 @@ turn down the speakers,volume control,19
 what is your best joke,tell me joke,17
 don't make any sounds,volume control,19
 It is Adam,"greet and hello hi kind of things, general check in",7
-please activate my coffee pot for me,,-1
 tell me news tomorrow,tell me news,18
 open spotify and play list five,play on youtube,12
 who's playing the oboe on this piece,play on youtube,12
@@ -1958,13 +1913,11 @@ click selfie of,click photo,3
 mute sound,volume control,19
 why people like movies,tell me about,16
 play on youtube,play on youtube,12
-brew coffee,,-1
 open website linkedin.com,open website,9
 video games,play games,11
 mute the living room speakers,volume control,19
 Great thanks! This is Bella,"greet and hello hi kind of things, general check in",7
 please play for me elvis presley song again,play on youtube,12
-make some coffee,,-1
 may twenty two is my birthdate and i want to know the what day is twenty third may,asking time,1
 let's play global thermonuclear war,play games,11
 It is Adam,"greet and hello hi kind of things, general check in",7
@@ -1995,7 +1948,6 @@ Do you know what time it is?,asking time,1
 Shut up,goodbye,6
 I am so bored,i am bored,8
 what's the good news,tell me news,18
-start up the coffee machine,,-1
 list the games you can play with me,play games,11
 "Thanks, bye",goodbye,6
 would you again clarify me on it.,tell me about,16
@@ -2030,7 +1982,6 @@ what time is it today,asking time,1
 click photo,click photo,3
 hi how are you,"greet and hello hi kind of things, general check in",7
 who's that song by,play on youtube,12
-brew a pot of coffee,,-1
 What can I ask you to do?,what can you do,20
 set to mute,volume control,19
 date in new york,asking time,1
@@ -2066,7 +2017,6 @@ covid cases,covid cases,4
 play my first favorite song on loop,play on youtube,12
 mute volume,volume control,19
 take screenshot of,take screenshot,15
-turn on coffee machine and make a pot of coffee,,-1
 Quiet,goodbye,6
 send whatsapp message,send whatsapp message,14
 "Thanks, bye",goodbye,6
@@ -2138,7 +2088,6 @@ what's good news today,tell me news,18
 covid cases of india past 48 hours,covid cases,4
 tomorrow,asking date,0
 play games of xxd,play games,11
-can you please make me a cup of black coffee,,-1
 hey there,"greet and hello hi kind of things, general check in",7
 it's quiet time,volume control,19
 Do you know any jokes,tell me joke,17
@@ -2161,7 +2110,6 @@ mute volume,volume control,19
 when is the third monday of this month,asking time,1
 what's good news,tell me news,18
 "Thanks, bye",goodbye,6
-please warm up coffee machine,,-1
 Great thanks! My user is Bella,"greet and hello hi kind of things, general check in",7
 "Thanks, bye",goodbye,6
 take screenshot,take screenshot,15
@@ -2200,7 +2148,6 @@ what is the weather day after tomorrow,asking weather,2
 should i take my raincoat with me now,asking weather,2
 i am bored what can i do today with my family,i am bored,8
 what time in las vegas,asking time,1
-brew my coffee,,-1
 once again clarify me about your answers please.,tell me about,16
 This is Adam,"greet and hello hi kind of things, general check in",7
 tomorrow,asking date,0
@@ -2236,7 +2183,6 @@ what are the news notification,tell me news,18
 what time is it day after tomorrow,asking time,1
 download youtube video of,download youtube video,5
 Hola how are you?,"greet and hello hi kind of things, general check in",7
-i would like a cup of coffee,,-1
 click selfie of,click photo,3
 Hello how are you?,"greet and hello hi kind of things, general check in",7
 covid cases,covid cases,4
@@ -2272,7 +2218,6 @@ play on youtube,play on youtube,12
 what's good news today,tell me news,18
 send whatsapp message about <name>,send whatsapp message,14
 did dan send me any emails,send email,13
-please start the coffee,,-1
 Hola how are you?,"greet and hello hi kind of things, general check in",7
 "Thank you, bye",goodbye,6
 "Thank you, bye",goodbye,6
@@ -2308,7 +2253,6 @@ what is the weather like now tomorrow,asking weather,2
 what song in the theme song for frasier,play on youtube,12
 hey there,"greet and hello hi kind of things, general check in",7
 play shape of you on youtube today,play on youtube,12
-start making some coffee,,-1
 show me reviews of my nearest location food court,places near me,10
 Can you tell me the time?,asking time,1
 play led zeppelin houses of the holy,play on youtube,12
@@ -2326,7 +2270,6 @@ who wrote the song i just wanna dance with you,play on youtube,12
 Do you know what time it is?,asking time,1
 tell me a joke about getting a first,tell me joke,17
 what pubs are close,places near me,10
-turn on the coffee machine to make me some coffee,,-1
 Is it going to snow,asking weather,2
 whats up,"greet and hello hi kind of things, general check in",7
 "Thank you, goodbye",goodbye,6
@@ -2357,7 +2300,6 @@ whats up,"greet and hello hi kind of things, general check in",7
 "please tell me good news,tell me some good news,tell me something good happened",tell me news,18
 tell me about my job,tell me about,16
 send whatsapp message to 9898982565,send whatsapp message,14
-brew me some coffee,,-1
 open website github.com,open website,9
 turn the vibrate off from speaker,volume control,19
 volume control increase by 10,volume control,19
@@ -2366,7 +2308,6 @@ Can you turn the volume up?,volume control,19
 mobile shop,places near me,10
 send email to,send email,13
 "Thank you, goodbye",goodbye,6
-make me a cup of coffee please,,-1
 where are italian restaurants in me area,places near me,10
 covid cases of,covid cases,4
 day after tomorrow,asking date,0
@@ -2441,7 +2382,6 @@ Hello how are you?,"greet and hello hi kind of things, general check in",7
 turn the volume down,volume control,19
 covid cases of,covid cases,4
 open website github.com,open website,9
-how do i set the timer on my coffee machine,,-1
 whats up,"greet and hello hi kind of things, general check in",7
 Can you control the volume?,volume control,19
 take screenshot of google,take screenshot,15
@@ -2451,9 +2391,7 @@ send whatsapp message,send whatsapp message,14
 play bad guy on youtube,play on youtube,12
 tell me you,tell me about,16
 where is a walking trail near me,places near me,10
-i'd like an espresso,,-1
 download youtube video of minecraft,download youtube video,5
-i need some coffee please,,-1
 play <song> on youtube,play on youtube,12
 Can you increase the volume?,volume control,19
 send happy new year to john@gmail dot com,send email,13
@@ -2515,7 +2453,6 @@ mute enabled until i say so,volume control,19
 what is the weather like now tomorrow,asking weather,2
 daily cases of india,covid cases,4
 I am not entertained,i am bored,8
-i want coffee,,-1
 covid cases of india past 24 hours,covid cases,4
 what's the date is currently,asking time,1
 Good thanks! My user is Adam,"greet and hello hi kind of things, general check in",7
@@ -2562,7 +2499,6 @@ Can you tell me the time?,asking time,1
 find me the best knock knock joke on the internet,tell me joke,17
 It is Adam,"greet and hello hi kind of things, general check in",7
 lower volume of music player,volume control,19
-i want to drink the coffee that you made,,-1
 play baseball net,play games,11
 will you further elaborate me on it please.,tell me about,16
 what time is it in karachi right now,asking time,1
@@ -2576,7 +2512,6 @@ Where should I go nearby?,places near me,10
 This is Adam,"greet and hello hi kind of things, general check in",7
 date and time,asking time,1
 please open blokus game i would like to play with you,play games,11
-can you please make a coffee,,-1
 good day,goodbye,6
 i want to hear purple haze,play on youtube,12
 send email to <name> about <name>,send email,13
@@ -2783,7 +2718,6 @@ What are the closest places to me?,places near me,10
 play baseball,play games,11
 What are some nearby locations?,places near me,10
 i am bored what can i do today with my wife,i am bored,8
-could you fix me some coffee,,-1
 Can you recommend some places nearby?,places near me,10
 what does jon bon jovi's wife look like,tell me about,16
 email me the lyrics to this song,play on youtube,12
@@ -2819,10 +2753,8 @@ list shops in douglasville ga,places near me,10
 do not make any noise until morning alarm,volume control,19
 get news about new foreign policy,tell me news,18
 make me laugh,tell me joke,17
-do coffee,,-1
 Hi there,"greet and hello hi kind of things, general check in",7
 Hola how are you?,"greet and hello hi kind of things, general check in",7
-i want hot coffee,,-1
 what is happening with brexit today,tell me news,18
 daily cases of india,covid cases,4
 I am so bored,i am bored,8
@@ -2834,7 +2766,6 @@ cnn,tell me news,18
 Hola how are you?,"greet and hello hi kind of things, general check in",7
 weather for the next week in new york,asking weather,2
 tell me the artist of this song,play on youtube,12
-get me a coffee,,-1
 Do you know what time it is?,asking time,1
 today,asking date,0
 tell me about tomorrow,tell me about,16
@@ -3013,7 +2944,6 @@ please reduce the sound,volume control,19
 play baseball net,play games,11
 Where should I go nearby?,places near me,10
 where is a good wine bar near me,places near me,10
-get coffee maker started for a fresh cup,,-1
 who sang the song that is currently playing,play on youtube,12
 what is today's current date,asking time,1
 check email for otp sent by my bank,send email,13
@@ -3052,7 +2982,6 @@ what is the day,asking date,0
 What are your functionalities?,what can you do,20
 Do you know what time it is?,asking time,1
 tell me about a vet,tell me about,16
-i need some coffee,,-1
 tell me you,tell me about,16
 do you have a funny joke for me,tell me joke,17
 Do you know the time?,asking time,1
@@ -3167,7 +3096,6 @@ Good thanks! It is Adam,"greet and hello hi kind of things, general check in",7
 what day is it,asking date,0
 download youtube video of,download youtube video,5
 where to buy cannon cameras,places near me,10
-make coffee at eight am,,-1
 play music true love,play on youtube,12
 what restaurants around here have good reviews,places near me,10
 I am finding myself bored,i am bored,8
@@ -3210,7 +3138,6 @@ take screenshot,take screenshot,15
 "Thank you, goodbye",goodbye,6
 volume control increase,volume control,19
 go silent for a day,volume control,19
-make me coffee,,-1
 Hello,"greet and hello hi kind of things, general check in",7
 uefa european championship,tell me about,16
 Great thanks! My user is Bella,"greet and hello hi kind of things, general check in",7
@@ -3313,7 +3240,6 @@ Shhh,goodbye,6
 send email to dipesh,send email,13
 Please be quiet,goodbye,6
 am i going to need a jacket tomorrow,asking weather,2
-please make a coffee,,-1
 tell me a joke about getting a first,tell me joke,17
 i'm in a meeting please do not speak,volume control,19
 Tell me a joke,tell me joke,17
@@ -3332,7 +3258,6 @@ list all the nearby shops,places near me,10
 Do you know what time it is?,asking time,1
 What are your functionalities?,what can you do,20
 search for new jokes,tell me joke,17
-cook some coffees,,-1
 Hi there,"greet and hello hi kind of things, general check in",7
 places near me,places near me,10
 near by super market,places near me,10
@@ -3373,7 +3298,6 @@ open website linkedin.com,open website,9
 time,asking time,1
 Do you know what time it is?,asking time,1
 what's the latest news about us election,tell me news,18
-can you begin the brew,,-1
 what's the time for neighboring city,asking time,1
 what time is it day before tomorrow,asking time,1
 play racing,play games,11
@@ -3394,7 +3318,6 @@ What are your functionalities?,what can you do,20
 open website stackoverflow.com,open website,9
 plants,tell me about,16
 take screenshot,take screenshot,15
-activate coffee machine,,-1
 tell me a joke about the sun,tell me joke,17
 Good thanks! I am Adam,"greet and hello hi kind of things, general check in",7
 list all the shops that are located in milan,places near me,10
@@ -3447,11 +3370,9 @@ Enough talking,goodbye,6
 be silent for thirty minutes,volume control,19
 please check if i got any emails from mom,send email,13
 download youtube video of kishore kumar,download youtube video,5
-a cup of coffee please,,-1
 What can you assist me with?,what can you do,20
 its cold outside,asking weather,2
 Do you know any jokes,tell me joke,17
-start brewing please,,-1
 Where can I find,tell me about,16
 what is the update on stock market,tell me news,18
 What are the top places nearby?,places near me,10
@@ -3512,7 +3433,6 @@ why do some people still think the earth is flat,tell me about,16
 send email to xyz@gmail.com,send email,13
 "Thank you, bye",goodbye,6
 is there any rap that doesn't involve sex money and drugs,play on youtube,12
-my coffee is cold please make more coffee,,-1
 Good thanks! My user is Adam,"greet and hello hi kind of things, general check in",7
 what's the latest joke,tell me joke,17
 i am bored what can i do today with my family,i am bored,8
@@ -3543,7 +3463,6 @@ What are the top places nearby?,places near me,10
 What can you assist me with?,what can you do,20
 any local news stories for my home city,tell me news,18
 where can i shop as a local tourist,places near me,10
-can i have cup of coffee,,-1
 Hope you are doing well?,"greet and hello hi kind of things, general check in",7
 time,asking time,1
 Hello how are you?,"greet and hello hi kind of things, general check in",7
@@ -3574,7 +3493,6 @@ open website stackoverflow.com,open website,9
 What is the weather like today,asking weather,2
 send email to <name>,send email,13
 can you recommend a cheap restaurant in this area,places near me,10
-please make coffee,,-1
 what is the weather tomorrow,asking weather,2
 tell me about my job,tell me about,16
 send email to,send email,13
@@ -3628,7 +3546,6 @@ what's good news,tell me news,18
 send email to dipesh,send email,13
 "Thank you, bye",goodbye,6
 what is the day,asking date,0
-can you set the coffee machine to make coffee at three pm time every week day,,-1
 capture photo,click photo,3
 What can you assist me with?,what can you do,20
 clarify further on that to me please.,tell me about,16
@@ -3794,7 +3711,6 @@ play bad guy on youtube,play on youtube,12
 take screenshot of,take screenshot,15
 tell me a joke about kim jong un,tell me joke,17
 good evening,goodbye,6
-explain how to set my coffee machine,,-1
 please let me know about topic elections,tell me news,18
 i am bored what can i do today,i am bored,8
 "Thank you, goodbye",goodbye,6
@@ -3802,7 +3718,6 @@ tell me about my life,tell me about,16
 i am bored what can i do today with my family,i am bored,8
 what is the time,asking time,1
 open website instagram.com,open website,9
-can you make me coffee now,,-1
 Enough talking,goodbye,6
 what are today's headlines,tell me news,18
 "Thank you, goodbye",goodbye,6
@@ -3823,7 +3738,6 @@ Hya,"greet and hello hi kind of things, general check in",7
 please reply to my colleagues mail about his query,send email,13
 hey there,"greet and hello hi kind of things, general check in",7
 send whatsapp message,send whatsapp message,14
-i fancy some coffee now,,-1
 play kishore kumar on youtube,play on youtube,12
 send an email to john,send email,13
 send email to xyz@gmail.com,send email,13
@@ -3838,7 +3752,6 @@ Will it rain tomorrow,asking weather,2
 What tasks can you complete?,what can you do,20
 what is the day,asking date,0
 would you play some music please,play on youtube,12
-set coffee to brew at seven am,,-1
 initiate the music on the electronic playlist,play on youtube,12
 Tell me a joke,tell me joke,17
 What are your functionalities?,what can you do,20
@@ -3914,7 +3827,6 @@ Great thanks! It is Bella,"greet and hello hi kind of things, general check in",
 daily cases of india,covid cases,4
 This is Adam,"greet and hello hi kind of things, general check in",7
 take screenshot of google,take screenshot,15
-i want a coffee,,-1
 open website stackoverflow.com,open website,9
 what time is it in this city,asking time,1
 whats the latest,tell me news,18
@@ -3933,7 +3845,6 @@ march tenth lands on what day of the week,asking time,1
 Where should I go nearby?,places near me,10
 speaker volume decrease,volume control,19
 what's good news,tell me news,18
-make me a cappuccino,,-1
 where is the nearest atm machine,places near me,10
 Great thanks! This is Bella,"greet and hello hi kind of things, general check in",7
 any signs of rain,asking weather,2
@@ -3971,7 +3882,6 @@ i saw a bulldog today,tell me about,16
 download youtube video of,download youtube video,5
 download youtube video hd,download youtube video,5
 Can you tell me the time?,asking time,1
-can i please have a cafe americano,,-1
 play on youtube,play on youtube,12
 daily cases of india,covid cases,4
 check emails from gary for last hour,send email,13
@@ -4014,7 +3924,6 @@ covid cases,covid cases,4
 Can you recommend some places nearby?,places near me,10
 where is the nearest pub in the city,places near me,10
 please check recent emails from new contact,send email,13
-hey can you please make me a creamy coffee,,-1
 please do not talk for thirty minutes,volume control,19
 what's good news,tell me news,18
 what's playing,play on youtube,12
@@ -4157,9 +4066,7 @@ volume control increase by 10,volume control,19
 turn off the sounds,volume control,19
 take screenshot,take screenshot,15
 How are you?,"greet and hello hi kind of things, general check in",7
-i need a drink,,-1
 did i email tom on the subject of gun control,send email,13
-start a cup of coffee for me,,-1
 list all emails with subject contract,send email,13
 send whatsapp message about,send whatsapp message,14
 could you please tell me what time is in singapore,asking time,1
@@ -4201,13 +4108,10 @@ it's really loud can you please turn the music down,volume control,19
 Tell me about,tell me about,16
 i want to play blackjack,play games,11
 Do you know the time?,asking time,1
-run coffee maker,,-1
 What are the top places nearby?,places near me,10
 suggestions for future,tell me about,16
 Hello how are you?,"greet and hello hi kind of things, general check in",7
-commence coffee making,,-1
 start candy crush,play games,11
-make coffee for me,,-1
 today i couldn't find my phone,tell me about,16
 your birth date,tell me about,16
 open some cools jokes,tell me joke,17
@@ -4268,7 +4172,6 @@ when i want it to take down notes,tell me about,16
 tell me a dad joke,tell me joke,17
 will there be snow this week,asking weather,2
 i need a naughty joke not to naughty though,tell me joke,17
-order one coffee to starbucks coffee shop,,-1
 what is the day,asking date,0
 play games of gcc,play games,11
 download youtube video,download youtube video,5
@@ -4287,7 +4190,6 @@ the latest climate and weather news,tell me news,18
 send email to <name> about <name>,send email,13
 good afternoon,goodbye,6
 "Thank you, bye",goodbye,6
-instruct the coffee maker to make a filter coffee ready in ten minutes,,-1
 download youtube video of minecraft,download youtube video,5
 hey,"greet and hello hi kind of things, general check in",7
 what's good news,tell me news,18
@@ -4475,19 +4377,16 @@ Hello how are you?,"greet and hello hi kind of things, general check in",7
 send email to <name> about <name>,send email,13
 tell me about yours,tell me about,16
 send whatsapp message,send whatsapp message,14
-i would like a cup of coffee with one cream and three sugars,,-1
 download youtube video of <name>,download youtube video,5
 my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id,send email,13
 Enough talking,goodbye,6
 play games,play games,11
 Quiet,goodbye,6
 send email to <name>,send email,13
-make me a cup of coffee with salted carmel flavored cream,,-1
 open website linkedin.com,open website,9
 How about a joke,tell me joke,17
 when was this song released,play on youtube,12
 Goodbye,goodbye,6
-i'd like a cup of coffee please,,-1
 click photo,click photo,3
 hey,"greet and hello hi kind of things, general check in",7
 time,asking time,1
@@ -4540,7 +4439,6 @@ take screenshot,take screenshot,15
 weather like,asking weather,2
 should i wear a hat today,asking weather,2
 what is today's weather in springfield,asking weather,2
-please make me a cappuccino,,-1
 what is the weather tomorrow,asking weather,2
 time,asking time,1
 play music in library,play on youtube,12
@@ -4551,7 +4449,6 @@ Great thanks! My user is Bella,"greet and hello hi kind of things, general check
 Do you know what time it is?,asking time,1
 how many days are in this month,asking time,1
 horoscope,tell me about,16
-please start me some coffee,,-1
 please mute the television for one hour,volume control,19
 What are your functions?,what can you do,20
 Bye,goodbye,6
@@ -4582,7 +4479,6 @@ what is the weather like now day before tomorrow,asking weather,2
 take screenshot of google,take screenshot,15
 send whatsapp message,send whatsapp message,14
 please keep quiet for the next hour,volume control,19
-make us a brew,,-1
 what's the good news of stock market,tell me news,18
 How about a joke,tell me joke,17
 This is Adam,"greet and hello hi kind of things, general check in",7
@@ -4636,7 +4532,6 @@ talk quieter please,volume control,19
 today,asking date,0
 hi how are you,"greet and hello hi kind of things, general check in",7
 i am bored what can i do today with my girlfriend,i am bored,8
-brew coffee at noon,,-1
 what is the weather like day after tomorrow,asking weather,2
 hi how are you,"greet and hello hi kind of things, general check in",7
 who's playing this,play on youtube,12
@@ -4681,7 +4576,6 @@ what is the current central time,asking time,1
 Quiet,goodbye,6
 What are some nearby locations?,places near me,10
 i am bored,i am bored,8
-please turn on my coffee pot,,-1
 where can i find a good taco truck in los angles,places near me,10
 tell me what is song is playing now,play on youtube,12
 Can you turn the volume up?,volume control,19
@@ -4697,7 +4591,6 @@ Do you know what time it is?,asking time,1
 "Thanks, bye",goodbye,6
 What are your functionalities?,what can you do,20
 do i have any new email,send email,13
-can you start the coffee,,-1
 Can you increase the volume?,volume control,19
 tell me about president of india,tell me about,16
 what time is it tomorrow,asking time,1
@@ -4790,7 +4683,6 @@ send whatsapp message,send whatsapp message,14
 answer email,send email,13
 take screenshot,take screenshot,15
 "Thank you, bye",goodbye,6
-please make ke a coffee,,-1
 send email to <name> about <name>,send email,13
 play tic tac toe with me,play games,11
 tell me fun joke,tell me joke,17
@@ -4821,7 +4713,6 @@ Hola how are you?,"greet and hello hi kind of things, general check in",7
 whats a good joke,tell me joke,17
 mute yourself until i say otherwise,volume control,19
 search for nearby chinese restaurants,places near me,10
-i'd like a coffee please,,-1
 get me the latest news in new york,tell me news,18
 My user is Bella,"greet and hello hi kind of things, general check in",7
 i was not clear about your response.,tell me about,16
@@ -4860,7 +4751,6 @@ i am bored today what can i do,i am bored,8
 I am really bored,i am bored,8
 open website google.com,open website,9
 volume control decrease,volume control,19
-make a pot of strong coffee,,-1
 i would like to know the latest from nbc news,tell me news,18
 hello there,"greet and hello hi kind of things, general check in",7
 send whatsapp message about <name>,send whatsapp message,14
@@ -4906,7 +4796,6 @@ did trey sand any messages,send email,13
 covid cases of india past 24 hours,covid cases,4
 "Thank you, goodbye",goodbye,6
 what is the day,asking date,0
-brew some coffee,,-1
 what time is it day after tomorrow,asking time,1
 click selfie of,click photo,3
 is the mail from chris about work,send email,13
@@ -5019,7 +4908,6 @@ are there any new emails received after four o'clock today,send email,13
 i watched the best movie please reserve me a copy when it releases,tell me about,16
 what time is it today,asking time,1
 has anything happened to mass effect,tell me news,18
-program coffee machine to brew coffee in two minutes,,-1
 what's happening in the news,tell me news,18
 Hello,"greet and hello hi kind of things, general check in",7
 "s1, could you please clarify me about what you've just said once again.",tell me about,16
@@ -5036,7 +4924,6 @@ tell me a joke about xenophobia,tell me joke,17
 recommend me some shops to shopping in angel,places near me,10
 what is the day of the week,asking date,0
 i do not get the last sentence.,tell me about,16
-please make me a coffee using the coffee machine,,-1
 tell me a fun joke,tell me joke,17
 what is the time,asking time,1
 "Thanks for the help, goodbye",goodbye,6
@@ -5085,7 +4972,6 @@ please check this info on geographics for me,tell me about,16
 send email to dipesh,send email,13
 Hya there,"greet and hello hi kind of things, general check in",7
 send email to <name> about <name>,send email,13
-cup of coffee please,,-1
 what's good news,tell me news,18
 what is the best chocolate chip cookie recipe,tell me about,16
 Tell me a joke,tell me joke,17
@@ -5183,7 +5069,6 @@ whats the best place to eat near here,places near me,10
 did you receive this person email,send email,13
 tell me news tomorrow,tell me news,18
 daily cases of india,covid cases,4
-can you bring me a nice coffee,,-1
 daily cases of,covid cases,4
 what's the good news?,tell me news,18
 send email how are you dad to dad,send email,13
@@ -5297,11 +5182,9 @@ i need to send an email to michael,send email,13
 download youtube video of kishore kumar,download youtube video,5
 send email about <name>,send email,13
 Can you adjust the volume?,volume control,19
-please make me a cup of coffee,,-1
 i am bored today,i am bored,8
 what is the song currently playing,play on youtube,12
 volume control decrease,volume control,19
-how do i set my coffee machine to make coffee,,-1
 let's play some pong,play games,11
 Can you turn the volume down?,volume control,19
 can you tell me the current time in dallas texas,asking time,1
@@ -5353,7 +5236,6 @@ What are the top places nearby?,places near me,10
 play one more time,play on youtube,12
 what day today,asking time,1
 send whatsapp message,send whatsapp message,14
-will you please get the coffee machine to make some coffee,,-1
 play baseball with me,play games,11
 Hi there,"greet and hello hi kind of things, general check in",7
 what is the day of the week,asking date,0
@@ -5413,7 +5295,6 @@ Hello hope you are doing well?,"greet and hello hi kind of things, general check
 take screenshot,take screenshot,15
 play bad guy on youtube,play on youtube,12
 send whatsapp message,send whatsapp message,14
-make my coffee,,-1
 what time is it,asking time,1
 please hold for the next hour,volume control,19
 Do you know what time it is?,asking time,1
@@ -5447,7 +5328,6 @@ play games of xyz 64 bit,play games,11
 what time is it,asking time,1
 tell me about today,tell me about,16
 play game with me,play games,11
-i want coffee from the machine,,-1
 Can you control the volume?,volume control,19
 How about a joke,tell me joke,17
 play my midnight love playlist,play on youtube,12
@@ -5509,7 +5389,6 @@ capture photo of,click photo,3
 what are the scores from last night's hockey games,tell me about,16
 what genre is most played on my music player,play on youtube,12
 let me know the weather for today,asking weather,2
-prepare a coffee,,-1
 Can you tell me the time?,asking time,1
 Can you increase the volume?,volume control,19
 what day is it day before tomorrow,asking date,0
@@ -5519,7 +5398,6 @@ Hya,"greet and hello hi kind of things, general check in",7
 hi how are you,"greet and hello hi kind of things, general check in",7
 play on youtube,play on youtube,12
 "Thank you, bye",goodbye,6
-please make some coffee for me,,-1
 i am bored today,i am bored,8
 Tell me a joke,tell me joke,17
 How about a joke,tell me joke,17
@@ -5538,7 +5416,6 @@ Can you turn the volume up?,volume control,19
 tell me about history of british india,tell me about,16
 draft an email to kailey about work later,send email,13
 what time is it,asking time,1
-please make me nice coffee,,-1
 This is Adam,"greet and hello hi kind of things, general check in",7
 Thanks good bye,goodbye,6
 Shut up,goodbye,6
@@ -5590,7 +5467,6 @@ what time is it in singapore,asking time,1
 What are your functionalities?,what can you do,20
 am i going to swim or work today,asking weather,2
 tell me about my family,tell me about,16
-please make me some coffee,,-1
 show me some vegan restaurants close by,places near me,10
 What are your functionalities?,what can you do,20
 turn down the sound,volume control,19
@@ -5630,7 +5506,6 @@ My user is Adam,"greet and hello hi kind of things, general check in",7
 Tell me a joke,tell me joke,17
 screen shot now,take screenshot,15
 "Thank you, goodbye",goodbye,6
-make a coffee for me,,-1
 "Thanks for the help, goodbye",goodbye,6
 what is the weather like day before tomorrow,asking weather,2
 send email to <name> about <name>,send email,13
@@ -5792,11 +5667,9 @@ what is the weather like day before tomorrow,asking weather,2
 what restaurant is open after midnight,places near me,10
 send email to dipesh,send email,13
 howdy,"greet and hello hi kind of things, general check in",7
-can you boil the kettle,,-1
 click selfie,click photo,3
 send whatsapp message,send whatsapp message,14
 Hello,"greet and hello hi kind of things, general check in",7
-make coffee,,-1
 download youtube video of kishore kumar,download youtube video,5
 is there any salon in babaji nagar,places near me,10
 Hope you are doing well?,"greet and hello hi kind of things, general check in",7
@@ -5863,7 +5736,6 @@ Where should I go nearby?,places near me,10
 Hola how are you?,"greet and hello hi kind of things, general check in",7
 daily cases of,covid cases,4
 what will the weather be for the next week,asking weather,2
-make me a coffee please,,-1
 decrease speaker volume,volume control,19
 do i need to wear a coat today,asking weather,2
 open website stackoverflow.com,open website,9
@@ -5902,7 +5774,6 @@ send whatsapp message,send whatsapp message,14
 send email to <name>,send email,13
 make me laugh,tell me joke,17
 good bye,goodbye,6
-is the coffee ready,,-1
 please be silent until i tell you not to be,volume control,19
 download youtube video of minecraft,download youtube video,5
 play uno together,play games,11
@@ -5979,7 +5850,6 @@ download youtube video of <name> today,download youtube video,5
 email my sister about mom's birthday jane we should think about arranging the party at the park,send email,13
 hi how are you,"greet and hello hi kind of things, general check in",7
 send email to dipesh,send email,13
-start making a coffee,,-1
 what day is it tomorrow,asking date,0
 good bye,goodbye,6
 will i need a raincoat when i go to glasgow on sunday,asking weather,2
@@ -6042,7 +5912,6 @@ hey,"greet and hello hi kind of things, general check in",7
 Do you know what time it is?,asking time,1
 places near me to eat today with my friends,places near me,10
 please tell me the news,tell me news,18
-make me a cooled coffee,,-1
 what you just said was not so clear to me.,tell me about,16
 What are some places near me?,places near me,10
 friend updates,tell me about,16
@@ -6066,19 +5935,16 @@ what time is it in another city,asking time,1
 open website stackoverflow.com,open website,9
 tell me about tomorrow,tell me about,16
 what time is it tomorrow,asking time,1
-i need a cup of coffee,,-1
 make my collection mostly pop with a good bit of psychedelia,play on youtube,12
 i would like to mute the speakers please,volume control,19
 send email to nancy about tomorrow's work party details,send email,13
 Can you mute the volume?,volume control,19
 mute all responses now,volume control,19
-turn coffee maker on,,-1
 daily cases of india,covid cases,4
 play bad guy on youtube,play on youtube,12
 get me the latest news of world,tell me news,18
 send whatsapp message to,send whatsapp message,14
 are there any shopping centers nearby,places near me,10
-want to wake up can you order a cappochino,,-1
 date,asking date,0
 click photo,click photo,3
 Can you control the volume?,volume control,19
@@ -6106,7 +5972,6 @@ recommend pub in eighth and monte diablo,places near me,10
 hi how are you,"greet and hello hi kind of things, general check in",7
 good day,goodbye,6
 good news for economy,tell me news,18
-i need one cup of coffee,,-1
 play on youtube,play on youtube,12
 what's the good news?,tell me news,18
 download youtube video of minecraft,download youtube video,5
@@ -6141,9 +6006,7 @@ Tell me a joke,tell me joke,17
 i am bored today what can i do,i am bored,8
 places near me to eat today with my family,places near me,10
 show me a funny joke,tell me joke,17
-start the coffee machine,,-1
 what time is it day before tomorrow,asking time,1
-i want to drink coffee,,-1
 covid confirmed cases of,covid cases,4
 what time is it day before tomorrow,asking time,1
 hello there,"greet and hello hi kind of things, general check in",7
@@ -6205,13 +6068,11 @@ covid confirmed cases of,covid cases,4
 Great thanks! This is Bella,"greet and hello hi kind of things, general check in",7
 please play me a song from my favourite list,play on youtube,12
 open website twitter.com,open website,9
-please ask mr coffee to make a latte,,-1
 tell me a dad joke,tell me joke,17
 what is the update on stock market,tell me news,18
 Hi there,"greet and hello hi kind of things, general check in",7
 what's the time in dubai,asking time,1
 any recent news about north korea,tell me news,18
-can you start the coffee machine for me,,-1
 tell me about my life,tell me about,16
 screen shot of <name>,take screenshot,15
 Great thanks! My user is Bella,"greet and hello hi kind of things, general check in",7
@@ -6258,7 +6119,6 @@ capture photo of,click photo,3
 good day,goodbye,6
 volume control decrease,volume control,19
 what's good news,tell me news,18
-make me a coffee,,-1
 i couldn't get what you've said.,tell me about,16
 tell me fun joke,tell me joke,17
 play games of xxd,play games,11
@@ -6276,15 +6136,12 @@ play games with me,play games,11
 hey there,"greet and hello hi kind of things, general check in",7
 Great thanks! I am Bella,"greet and hello hi kind of things, general check in",7
 send whatsapp message,send whatsapp message,14
-please turn on coffee maker and start brew cycle,,-1
 what is the date,asking date,0
 Where can I find something nearby?,places near me,10
 what is the day,asking date,0
 Can you tell me the time?,asking time,1
-start cappuccino for me now,,-1
 can you find me a furniture store near me,places near me,10
 turn on console,play games,11
-can you make coffee,,-1
 send email about,send email,13
 download youtube video of minecraft,download youtube video,5
 today,asking date,0
@@ -6341,7 +6198,6 @@ tell me fun joke,tell me joke,17
 What can you assist me with?,what can you do,20
 click selfie,click photo,3
 compose an email to parisa,send email,13
-make me some coffee from the coffee machine,,-1
 hey,"greet and hello hi kind of things, general check in",7
 hi there,"greet and hello hi kind of things, general check in",7
 what is the day of the week,asking date,0
@@ -6420,17 +6276,14 @@ whats up,"greet and hello hi kind of things, general check in",7
 what is the weather like day before tomorrow,asking weather,2
 set mute mode for one hour,volume control,19
 tell me news tomorrow,tell me news,18
-it's coffee time,,-1
 today,asking date,0
 play games of xyz 64 bit,play games,11
 tell me a dad joke,tell me joke,17
 Do you know what time it is?,asking time,1
 download youtube video of <name>,download youtube video,5
 let me hear a joke,tell me joke,17
-set the coffee maker to on,,-1
 send email to dipesh,send email,13
 tomorrow,asking date,0
-i need coffee,,-1
 volume control mute,volume control,19
 what's going around in the world these days,tell me news,18
 send whatsapp message about <name>,send whatsapp message,14
@@ -6476,7 +6329,6 @@ Tell me a joke,tell me joke,17
 covid cases of india past 48 hours,covid cases,4
 Hi there,"greet and hello hi kind of things, general check in",7
 Hello,"greet and hello hi kind of things, general check in",7
-can i have an espresso please,,-1
 see you later,goodbye,6
 send whatsapp message about,send whatsapp message,14
 how hot is it outside today,asking weather,2
@@ -6551,7 +6403,6 @@ tell me about my day,tell me about,16
 Do you know what time it is?,asking time,1
 I am feeling a bit bored,i am bored,8
 can you tell me a nice joke,tell me joke,17
-i want the coffee machine to make me coffee,,-1
 covid cases of india past 24 hours,covid cases,4
 covid cases of,covid cases,4
 what is the weather like now tomorrow,asking weather,2
@@ -6597,7 +6448,6 @@ My user is Bella,"greet and hello hi kind of things, general check in",7
 click photo of <name>,click photo,3
 can you mute when i am not home,volume control,19
 what mexican food is around me,places near me,10
-please get the coffee machine to make me some coffee,,-1
 Hya there,"greet and hello hi kind of things, general check in",7
 I am really bored,i am bored,8
 further explain.,tell me about,16
@@ -6623,7 +6473,6 @@ what do you mean by it.,tell me about,16
 what is the weather like now day after tomorrow,asking weather,2
 bye,goodbye,6
 download youtube video of minecraft,download youtube video,5
-start the coffee machine at three,,-1
 please resume my music,play on youtube,12
 what song is playing right now,play on youtube,12
 download youtube video of,download youtube video,5
@@ -6636,7 +6485,6 @@ what is the current time in delhi,asking time,1
 what is the day,asking date,0
 best bar in local area,places near me,10
 covid cases of india past 24 hours,covid cases,4
-coffee make now,,-1
 play the bjork album i've heard the least,play on youtube,12
 This is Adam,"greet and hello hi kind of things, general check in",7
 Great thanks! It is Bella,"greet and hello hi kind of things, general check in",7
@@ -6655,7 +6503,6 @@ how many grocery stores are located in my neighborhood,places near me,10
 volume control increase by 10,volume control,19
 what happened to charlie chaplin,tell me about,16
 please recommend a restaurant in seattle,places near me,10
-get the coffee started please,,-1
 daily cases of india,covid cases,4
 do i have any new entries in my inbox,send email,13
 take screenshot,take screenshot,15
@@ -6674,7 +6521,6 @@ Hya there,"greet and hello hi kind of things, general check in",7
 start email for address not in contacts,send email,13
 Quiet,goodbye,6
 tell me a joke about the moon,tell me joke,17
-greg wants black coffee can you make one,,-1
 will you explain me more on what you just said please.,tell me about,16
 hello there,"greet and hello hi kind of things, general check in",7
 Hi how are you?,"greet and hello hi kind of things, general check in",7
@@ -6690,7 +6536,6 @@ download youtube video of minecraft,download youtube video,5
 what is the weather today,asking weather,2
 send email to dipesh,send email,13
 "Thanks for the help, goodbye",goodbye,6
-can you get me a cup of coffee please,,-1
 please run this game,play games,11
 Can you control the volume?,volume control,19
 what time is it today,asking time,1
@@ -6798,7 +6643,6 @@ what's the best italian restaurant in atlanta,places near me,10
 hi there,"greet and hello hi kind of things, general check in",7
 what music genre do i play most,play on youtube,12
 Can you recommend some places nearby?,places near me,10
-would you set the coffee maker running,,-1
 Hya there,"greet and hello hi kind of things, general check in",7
 Hola how are you?,"greet and hello hi kind of things, general check in",7
 tea shop,places near me,10
@@ -6833,7 +6677,6 @@ show me my emails from the past hour,send email,13
 Hello,"greet and hello hi kind of things, general check in",7
 update on email,send email,13
 find me the name of the artist of this music,play on youtube,12
-could you get me some coffee,,-1
 tomorrow,asking date,0
 Can you tell me the time?,asking time,1
 click selfie,click photo,3
@@ -6923,7 +6766,6 @@ reply email to charlotte,send email,13
 open website stackoverflow.com,open website,9
 What are your functionalities?,what can you do,20
 Can you tell me the time?,asking time,1
-double cappuccino small please,,-1
 what time is it now,asking time,1
 download youtube video of minecraft,download youtube video,5
 have you heard any good jokes lately,tell me joke,17
@@ -6961,7 +6803,6 @@ i wish i could play video games together,play games,11
 what is the name of this musical group,play on youtube,12
 tell me about yours,tell me about,16
 daily cases of india,covid cases,4
-make me coffee in five minutes,,-1
 send a confirmation email to sandy,send email,13
 Great thanks! This is Bella,"greet and hello hi kind of things, general check in",7
 volume control increase,volume control,19
